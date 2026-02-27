@@ -1,3 +1,5 @@
+'use client'
+
 import { SliderDotsProps } from "../types/login-top-slider-dots-props"
 
 const SliderDots = ({carouselItems, activeIndex}:SliderDotsProps) => {

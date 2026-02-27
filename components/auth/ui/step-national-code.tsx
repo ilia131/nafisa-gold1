@@ -1,3 +1,5 @@
+'use client'
+
 import NationalCodeIcons from "@/public/icons/NationalCodeIcons"
 import { Field } from "formik"
 const StepNationalCode = () => {

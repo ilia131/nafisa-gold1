@@ -1,3 +1,4 @@
+'use client'
 import MobileNumberIcons from "@/public/icons/MobileNumberIcons"
 import { Field } from "formik"
 const StepPhone = () => {

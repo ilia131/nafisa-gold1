@@ -1,3 +1,5 @@
+'use client'
+
 import { loginCarouselItems } from '../data/login.coursel.data';
 import { useLoginCarousel } from '../hooks/useLoginCarousel';
 import SliderDots from '@/components/auth/login-coursel-slider/login-top-slider-dots';

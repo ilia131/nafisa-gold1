@@ -1,3 +1,5 @@
+'use client'
+
 import type { StaticImageData } from 'next/image';
 import carouselItem1 from '@/public/images/login-carousel-item-1.svg';
 import carouselItem2 from '@/public/images/login-carousel-item-2.svg';

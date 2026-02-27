@@ -1,3 +1,4 @@
+'use client'
 
 const LoginButton = ({children}:{children:string}) => {
   return (
