@@ -7,7 +7,7 @@ import LoginTitle from '@/components/auth/login-title';
 export default function AuthLayout({children}: {children:React.ReactNode}) {
     return (
     <main className="w-full">
-        <div className="flex w-107.5 h-screen flex-col items-center  pt-10 mx-auto ">
+        <div className="flex w-107.5 max-[430px]:w-full  h-screen flex-col items-center  pt-10 mx-auto ">
                 <SliderButton />
                 <LoginCarouselContainer />
               <div className='w-full pt-10 mt-2 flex flex-col items-center
